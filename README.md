@@ -1,1 +1,1 @@
-# module2
+# HTML CSS & JS lessons
